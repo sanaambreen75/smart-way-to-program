@@ -74,3 +74,5 @@ create_message()
 display_result()
 
 The program starts when main() is called.
+
+.
